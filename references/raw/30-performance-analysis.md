@@ -1,0 +1,5 @@
+# Performance Analysis
+
+*DLE documentation topic #30*
+
+This section analyzes all script settings and user group settings and, based on the analysis results, provides recommendations for changing and disabling certain script features. The results are displayed with detailed explanations of why a particular feature should be disabled, and the results are also shown in specially highlighted graphic blocks that determine the load level of each feature. Recommendations highlighted in red should be applied first because they can significantly reduce server load. Recommendations in the yellow block indicate a medium load level. Recommendations highlighted in green can only slightly reduce the load. Therefore, using this section is recommended first of all for those who experience website load problems on their hosting and want to try to solve the problem with minimal effort, without changing the hosting plan and moving to more powerful resources. This section will be useful both for beginners who have recently started using the script and for more experienced users.
