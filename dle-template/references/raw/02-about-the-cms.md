@@ -1,0 +1,5 @@
+# About the CMS
+
+*DLE documentation topic #2*
+
+**DataLife Engine** \- is a powerful, high-performance content management system originally designed for building large-scale media portals, news websites, and content-driven projects with massive volumes of data. Thanks to its unmatched architectural flexibility, the engine has long gone beyond classic blogs and scales easily for virtually any business task, giving developers complete freedom: its innovative templating system makes it possible to seamlessly integrate UI/UX designs of any complexity without limitations. DLE's hallmark is its exceptional high-load resilience: even under peak loads and with an audience of millions, the platform consumes minimal server resources and guarantees instant content delivery. Flawless out-of-the-box SEO optimization automatically helps attract organic traffic, while deep integration of modern asynchronous technologies makes interaction with the website smooth and dynamic, saving traffic and providing users with a premium level of comfort.
